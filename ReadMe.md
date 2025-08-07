@@ -67,7 +67,7 @@ All algorithms are implemented using only built-in Python functionality (no `pan
 ### 1. Clone the repo
 
 
-git clone https://github.com/your-username/balance-scale-classifier.git
+git clone [(https://github.com/HannaNajih/BalanceML.git)]
 cd balance-scale-classifier
 
 ## 📂 2. Prepare Dataset
@@ -80,9 +80,12 @@ You can download it from [UCI Repository](https://archive.ics.uci.edu/ml/dataset
 
 ## ▶️ 3. Run the Project
 
+bash: 
 
 python main.py
 
+
+---
 ## 📈 Evaluation Metrics
 
 The following performance metrics are calculated:
