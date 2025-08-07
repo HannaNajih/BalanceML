@@ -80,7 +80,7 @@ You can download it from [UCI Repository](https://archive.ics.uci.edu/ml/dataset
 
 ## ▶️ 3. Run the Project
 
-```bash
+
 python main.py
 
 ## 📈 Evaluation Metrics
