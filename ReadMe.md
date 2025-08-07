@@ -122,5 +122,5 @@ This project is open for **educational use**. If you use this code in any public
 ## 👨‍🎓 Author
 
 **Hana Najih**  
-*MSc Student in Computer Science*  
+*MSc Student in Software Engineering, University of Kurdistan-Sanandaj-Iran*  
 **Focus:** Machine Learning & Software Engineering
