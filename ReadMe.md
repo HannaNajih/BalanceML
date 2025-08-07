@@ -8,17 +8,29 @@ This project implements fundamental machine learning algorithms **from scratch i
 
 BalanceML/
 │
+
 ├── main.py # Main execution file
+
 ├── dataset/
+
 │ └── balance-scale.data # UCI Balance Scale dataset
+
 └── src/
+
 ├── init.py
+
 ├── utils.py # Data loading, metrics, train/test split
+
 ├── decision_tree.py # ID3 Decision Tree implementation
+
 ├── knn.py # k-Nearest Neighbors implementation
+
 ├── naive_bayes.py # Naive Bayes classifier
+
 ├── kmeans.py # K-Means clustering (unsupervised)
+
 └── cross_validation.py # K-fold cross-validation
+
 
 ---
 
@@ -54,7 +66,7 @@ All algorithms are implemented using only built-in Python functionality (no `pan
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/your-username/balance-scale-classifier.git
 cd balance-scale-classifier
 
